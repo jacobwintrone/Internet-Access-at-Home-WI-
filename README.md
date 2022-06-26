@@ -16,4 +16,4 @@ Creating descriptive column names, rearranging the columns' order to match the s
 An original version of the data was saved, and all changes were documented in comments. The data cleaning checklist above is a summary of those comments. 
 After cleaning the data, I calculated a few descriptive statistics across the state of Wisconsin, as well as a few simple visualizations to explore the data. 
 
-Section 2: 
+Section 2: Data Analysis and Visualization with R. 
