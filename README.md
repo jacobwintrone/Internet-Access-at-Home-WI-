@@ -1,5 +1,3 @@
-# Internet-Access-at-Home-WI-
-
 Project Results: The Messy Data csv was cleaned and aggregated with multiple other tables. 
 
 Background: The Internet Access at Home survey was sent to Wisconsin school districts to determine how many of their students have reliable internet access at home. 
